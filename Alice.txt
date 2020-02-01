@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-hello again
-test divergent branch
-added text again for rebase testing
-=======
 Hi! I'm Alice. I'm a file someone added to this repository a while ago again.
->>>>>>> 4336df2547ddf10e4d3a34a7282240c8a0bf8980
+
