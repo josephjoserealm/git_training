@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 hello again
-test divergent branch 
+test divergent branch
+added text again for rebase testing
